@@ -399,29 +399,29 @@ Write-Host "$name OFF - Skipped (Not Removed)"
 # =========================
 InstallPlugin `
 "GMCQUESTCOMPLEATER" `
-"1czyMxhKM_55FUhxvRvUUk-x8Vj4d3POz"
+""
 
 InstallPlugin `
 "FakeDeafen" `
-"1U3MCO7rWoB-zCFw_p-VPqPtTc-kGnwrA"
+"11XpzTrwUi37FV5tYLuLbHf1zs-4-op7X"
 
 
 InstallPlugin `
 "voiceChatUtilities" `
-"1oqe3nYA85-213T720DHDUJnKnw40rdDl"
+"18ZE2S_PZZdiP5PrgEj0nvKxzamqNIfat"
 
 
 InstallPlugin `
 "followUser" `
-"1mYKd4HSNoz67ZUgKJbycgkxCQx6VVxzP"
+"1-S6pQMMqBAL9jjNeL9eHq59iTI-yNoX1"
 
 InstallPlugin `
 "QUEST26" `
-"1fHLeU-E0brTDBSpCvq-icwFXdPPVh6CK"
+""
 
 InstallPlugin `
 "QuestAutoComplete" `
-"1czyMxhKM_55FUhxvRvUUk-x8Vj4d3POz"
+"1F8M0CUbHbDXxh8jJ-pM-XDOvPqZb-qrb"
 
 # =========================
 # BUILD
